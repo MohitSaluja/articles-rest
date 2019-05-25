@@ -31,7 +31,7 @@ Download the project and navigate to assignment folder. Below command can be use
 mvn spring-boot:run
 ```
 ### Documentation
-Swagger is leverage to document the apis.
+Swagger is leveraged to document the apis.
 
 http://localhost:8080/swagger-ui.html provides documentation to the implemented apis.
 
